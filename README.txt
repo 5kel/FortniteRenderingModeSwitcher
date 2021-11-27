@@ -1,2 +1,0 @@
-# Fortnite-RenderingMode-Switcher
-
