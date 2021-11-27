@@ -1,0 +1,2 @@
+fart %LocalAppData%\FortniteGame\Saved\Config\WindowsClient\GameUserSettings.ini "bUseD3D12InGame=True" "bUseD3D12InGame=False" 
+fart %LocalAppData%\FortniteGame\Saved\Config\WindowsClient\GameUserSettings.ini "bPreferFeatureLevelES31=True" "bPreferFeatureLevelES31=False"
